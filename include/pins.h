@@ -10,4 +10,5 @@
 #define BT_TX 6
 
 //RFID RC522 module pins
-#define RDID_CS 2
+#define RFID_CS 8
+#define RFID_RST 9
